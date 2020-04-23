@@ -10,9 +10,9 @@ import UserView from '../views/UserView.vue';
 Vue.use(VueRouter);
 
 const routes = [
-  {
-    path: '/',
-    name: 'news',
+  { 
+    path: '/',  //처음 접속시 보이는 페이지
+    name: 'news', // news로 연결시켜줌.
     component: NewsView
   },
   {
