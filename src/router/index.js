@@ -12,7 +12,7 @@ Vue.use(VueRouter);
 const routes = [
   {
     path: '/news',
-    name: 'news',
+    name: 'home',
     component: NewsView
   },
   {
