@@ -11,8 +11,8 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/news',
-    name: 'home',
+    path: '/',
+    name: 'news',
     component: NewsView
   },
   {
