@@ -1,3 +1,5 @@
+배포를 위한 스터디용 hacker news!!!!
+
 # vue_hacker_news
 
 ## Project setup
